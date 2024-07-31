@@ -1,0 +1,1 @@
+��f<?php exit; ?>a:1:{s:7:"content";a:2:{i:0;O:8:"stdClass":3:{s:17:"tax_rate_class_id";s:1:"2";s:4:"name";s:13:"نرخ صفر";s:4:"slug";s:37:"%d9%86%d8%b1%d8%ae-%d8%b5%d9%81%d8%b1";}i:1;O:8:"stdClass":3:{s:17:"tax_rate_class_id";s:1:"1";s:4:"name";s:15:"نرخ کاهش";s:4:"slug";s:43:"%d9%86%d8%b1%d8%ae-%da%a9%d8%a7%d9%87%d8%b4";}}}
